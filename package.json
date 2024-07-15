@@ -1,0 +1,11 @@
+{
+  "name": "@vuong1309/v_mobile_library",
+  "version": "1.0.0",
+  "description": "This is library of Nguyen Duc Vuong",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Nguyen Duc Vuong",
+  "license": "ISC"
+}
