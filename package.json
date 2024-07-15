@@ -8,7 +8,10 @@
   },
   "author": "Nguyen Duc Vuong",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/nguyenvuong1309/V_mobile_library.git"
+  },
   "publishConfig": {
-    "@vuong1309:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@vuong1309"
   }
 }
