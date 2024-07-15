@@ -12,6 +12,6 @@
     "url": "https://github.com/nguyenvuong1309/V_mobile_library.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@vuong1309"
+    "registry": "https://npm.pkg.github.com"
   }
 }
