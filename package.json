@@ -24,5 +24,9 @@
   "files": [
     "dist",
     "README.md"
+  ],
+  "branches": [
+    "main",
+    "next"
   ]
 }
