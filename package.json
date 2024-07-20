@@ -18,6 +18,7 @@
     "access": "public"
   },
   "devDependencies": {
+    "semantic-release": "^24.0.0",
     "typescript": "^5.5.3"
   },
   "files": [
